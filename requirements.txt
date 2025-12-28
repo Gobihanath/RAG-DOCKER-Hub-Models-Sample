@@ -1,0 +1,12 @@
+ipykernel
+langchain
+openai
+langchain-openai
+langchain-community
+chromadb
+langchain-core
+numpy
+pandas
+os
+dotenv
+pypdf
